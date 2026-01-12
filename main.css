@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+h1{
+    width:auto;
+    color:#ba5151;
+    position:relative;
+    left:400px;
+    top:50px;
+    text-shadow: 10px 10px 5px  #b4b4e4;
+}
